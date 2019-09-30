@@ -1,4 +1,4 @@
 # Applied-Machine-Learning
 ## Assignment 1.
-### Implementation of Linear & Logistic Regression using Gradient Descent<br/>Analysis on Energy Usage of Home Appliances
+### Implementation of Linear & Logistic Regression using Gradient Descent<br/>
 Class Projects / Assignments
